@@ -102,7 +102,6 @@
 //Add Dependencies for app level build.gradle
 repositories {
     jcenter()
-    mavenCentral()
 }
 dependencies {
   compile 'com.kevadiyakrunalk:rxdialog:1.0@aar'
